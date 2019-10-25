@@ -1,4 +1,5 @@
 module.exports = {
     placeholderName: 'Elegantt',
-    templateDir: './app',
+    templateDir: './elegant-react-native',
+    postInitScript: "./script.js",
   }
